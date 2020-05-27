@@ -45,7 +45,7 @@ function App() {
     
   <div>
     Thiss is my component: 
-    <Helloworld mytext="Hello Pakirulo" subtitle="pepo pepo" /> 
+    <Helloworld mytext="Hello Pakirulo" subtitle="pepose pepo" /> 
     <Helloworld mytext="Hello Paki" subtitle="ats ats" /> 
     <Helloworld mytext="Hello Pakinetta" subtitle="ots ots2" />
   </div>
